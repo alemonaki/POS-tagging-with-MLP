@@ -1,6 +1,6 @@
 # MLP for Sequence Labeling
 
-This project implements a **Multi-Layer Perceptron (MLP)** model for sequence tagging tasks. It follows the workflow used in the accompanying notebook `MLP_ex10.ipynb`.
+This project implements a **Multi-Layer Perceptron (MLP)** model for sequence tagging tasks. It follows the workflow used in the accompanying notebook `2nd_Assignment_POS_tagging_MLP.ipynb`.
 
 ---
 
